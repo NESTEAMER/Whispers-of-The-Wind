@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OptionButton
+  - Wall
+  - Door
+  - EnemyBoundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1BGFar
+    uniqueID: 516235935
+    locked: 0
+  - name: 2BGClose
+    uniqueID: 3408483447
+    locked: 0
+  - name: 3BGCloser
+    uniqueID: 2593651589
+    locked: 0
+  - name: 4Ground
+    uniqueID: 2079661613
+    locked: 0
+  - name: Characters
+    uniqueID: 1430251111
+    locked: 0
+  - name: 5Misc
+    uniqueID: 2155211755
+    locked: 0
+  - name: 6Misc2
+    uniqueID: 2312454779
+    locked: 0

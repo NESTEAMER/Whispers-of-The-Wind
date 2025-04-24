@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a99e52622c9cb04297e12c47ecf52c0, type: 3}
+  m_Name: Convo1
+  m_EditorClassIdentifier: 
+  actors: 000000000100000003000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Hey
+  - What's Up?
+  optionText:
+  - Not Much
+  - lots
+  - NVM
+  option0: {fileID: 11400000, guid: 054ed1fdd540ae14ba24a4cfd1ff36bb, type: 2}
+  option1: {fileID: 11400000, guid: 3c8d6fd819fa86145a956a9fc88f3853, type: 2}
+  option2: {fileID: 11400000, guid: 597d8245f04b18b4ea4607802b4e0c94, type: 2}
+  option3: {fileID: 0}
